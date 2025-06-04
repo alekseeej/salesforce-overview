@@ -1,0 +1,27 @@
+<template>
+    <div if:false={showInformationSection}>
+        <lightning-card title={cardTitle}>
+            <div class="slds-p-around_medium">
+                <lightning-helptext content={helpTextContent}></lightning-helptext>
+                <lightning-input class="departureInput" label={labelInputDeparture} type="text" min-length="3" max-length="3" placeholder={codeExample} message-when-too-short={tooShortMessageInputValidation} required></lightning-input>
+                <lightning-input class="arrivalInput" label={labelInputArrival} type="text" min-length="3" max-length="3" placeholder={codeExample}  pattern="[a-zA-Z]*" message-when-too-short={tooShortMessageInputValidation} required ></lightning-input>
+                <div>
+                    <lightning-button label={labelSubmitButton} onclick={validateIATAInputs}></lightning-button>
+                    <lightning-spinner if:true={showSpinner} alternative-text={alternativeSpinnerText} size="medium"></lightning-spinner>
+                </div>
+            </div>
+        </lightning-card>
+    </div>
+    <div if:true={showInformationSection} >
+        <lightning-card class="slds-p-around_medium" title={cardTitle}>
+            <header>{labelActionResult} <b>{actionResult} </b></header>
+            <div if:false={actionHasErrors}>
+                <p>{labelDepartureName} <b>{departureName}</b> </p>
+                 <p>{labelArrivalName}<b>{arrivalName}</b> </p>
+                 <p>{labelTotalDistance} <b>{totalDistance}</b> </p>
+            </div>
+                <lightning-button label={labelOkButton} onclick={returnToInitialView}></lightning-button>
+        </lightning-card>
+    </div>
+   
+</template>

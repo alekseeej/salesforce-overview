@@ -1,7 +1,7 @@
 # Korišćenje Salesforce tehnologija za unapređivanje, automatizaciju i optimizovanje modernih poslovnih sistema
 
 ## Sadržaj
-- [Problemi Koje Salesforce rešava](#problemi-koje-salesforce-resava)
+- [Problemi Koje Salesforce rešava](#problemi-koje-salesforce-rešava)
 - [Šta je Salesforce](#sta-je-salesforce?)
 - [Podela na Ključne Salesforce Cloud-ove](#podela-na-cloudove)
 - [Osnovne tehnologije](#osnovne-tehnologije)

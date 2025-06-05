@@ -5,7 +5,7 @@
 - [Šta je Salesforce](#%EF%B8%8F-šta-je-salesforce)
 - [Podela na Ključne Salesforce Cloud-ove](#%EF%B8%8F-podela-na-ključne-salesforce-cloud-ove)
 - [Osnovne tehnologije](#%EF%B8%8F-osnovne-salesforce-tehnologije)
-- [Pokretanje i instalacija](#pokretanje-i-instalacija)
+- [Pokretanje i instalacija](#1-instalacija-salesforce-cli-command-line-interface)
 
 ## ❗Problemi koje Salesforce rešava
 U mnogim savremenim sistemima, kompanije vode svoje poslovne strategije manuelno, ili kroz više sistema gde svaki ima svoju namenu. Neki čak i dalje pribegavaju beleženju podataka o potencijalnim saradnicima ili kupcima u Excel tabelama. 

@@ -4,7 +4,7 @@
 - [Problemi Koje Salesforce rešava](#problemi-koje-salesforce-rešava)
 - [Šta je Salesforce](#%EF%B8%8F-šta-je-salesforce)
 - [Podela na Ključne Salesforce Cloud-ove](#%EF%B8%8F-podela-na-ključne-salesforce-cloud-ove)
-- [Osnovne tehnologije](#osnovne-tehnologije)
+- [Osnovne tehnologije](#%EF%B8%8F-osnovne-salesforce-tehnologije)
 - [Pokretanje i instalacija](#pokretanje-i-instalacija)
 
 ## ❗Problemi koje Salesforce rešava

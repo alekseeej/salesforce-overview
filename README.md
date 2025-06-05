@@ -1,11 +1,11 @@
 # Korišćenje Salesforce tehnologija za unapređivanje, automatizaciju i optimizovanje modernih poslovnih sistema
 
 ## Sadržaj
-* Problemi koje Salesforce rešava
-* Šta je Salesforce
-* Podela Salesforce-a
-* Osnovne Tehnologije
-* Pokretanje i Instalacija
+- [Problemi Koje Salesforce rešava](#problemi-koje-Salesforce-rešava)
+- [Šta je Salesforce](#sta-je-salesforce)
+- [Podela na Ključne Salesforce Cloud-ove](#podela-na-cloudove)
+- [Osnovne tehnologije](#osnovne-tehnologije)
+- [Pokretanje i instalacija](#pokretanje-i-instalacija)
 
 ## 🧩 Problemi koje Salesforce rešava
 U mnogim savremenim sistemima, kompanije vode svoje poslovne strategije manuelno, ili kroz više sistema gde svaki ima svoju namenu. Neki čak i dalje pribegavaju beleženju podataka o potencijalnim saradnicima ili kupcima u Excel tabelama. 

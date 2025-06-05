@@ -7,7 +7,7 @@
 - [Osnovne tehnologije](#osnovne-tehnologije)
 - [Pokretanje i instalacija](#pokretanje-i-instalacija)
 
-## Problemi koje Salesforce rešava
+## ❗Problemi koje Salesforce rešava
 U mnogim savremenim sistemima, kompanije vode svoje poslovne strategije manuelno, ili kroz više sistema gde svaki ima svoju namenu. Neki čak i dalje pribegavaju beleženju podataka o potencijalnim saradnicima ili kupcima u Excel tabelama. 
 
 Salesforce je osmišljen kao sveobuhvatna platforma za rešavanje najčešćih izazova sa kojima se suočavaju moderne organizacije u prodaji, podršci i marketingu.

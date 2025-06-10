@@ -95,7 +95,7 @@ Služi za izradu portala i zajednica za korisnike, partnere ili zaposlene.
 Gorepomenuti cloudovi predstavljaju samu suštinu Salesforce-a, međutim, to nije sve. Postoji još mnoštvo cloud-ova koji su dostupni korisnicima, poput Data Cloud-a, Consumer Goods Cloud-a, Media Cloud-a, ali da bismo ostali u domenu teme, ostaćemo pri najkorišćenijim rešenjima.
 # 🛠️ Osnovne Salesforce tehnologije
 
-Salesforce platforma omogućava razvoj savremenih poslovnih aplikacija korišćenjem više različitih tehnologija. Neke od njih omogućavaju rad bez koda, dok su druge namenjene profesionalnim programerima. U nastavku je pregled najvažnijih razvojnih tehnologija u Salesforce ekosistemu.
+Salesforce platforma omogućava razvoj savremenih poslovnih aplikacija korišćenjem više različitih tehnologija. Neke od njih omogućavaju rad bez koda, dok su druge namenjene programerima. U nastavku je pregled najvažnijih razvojnih tehnologija u Salesforce ekosistemu.
 
 ---
 

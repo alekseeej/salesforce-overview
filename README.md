@@ -153,7 +153,7 @@ SELECT Name, Email FROM Contact WHERE CreatedDate = LAST_N_DAYS:30
 SOSL omogućava full-text pretragu kroz više objekata istovremeno.
 
 ```apex
-FIND 'Aleksa' IN ALL FIELDS RETURNING Contact(Name), Account(Name)
+FIND 'Salesforce' IN ALL FIELDS RETURNING Contact(Name), Account(Name)
 ```
 
 ## 🔁 Flow
